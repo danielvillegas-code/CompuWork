@@ -14,7 +14,7 @@ Sistema de gestión de empleados y departamentos en Java, implementado con arqui
 - Swing (interfaz gráfica)
 - Arquitectura MVC
 - Git & GitHub
-- JUnit (para pruebas unitarias)
+
 
 ## 📂 Estructura del proyecto
 - `src/models` → Clases del modelo (Empleado, Departamento, ReporteDesempeno)
@@ -40,7 +40,7 @@ Sistema de gestión de empleados y departamentos en Java, implementado con arqui
 
 - Manejo de excepciones con try-catch.
 
-- Pruebas unitarias con JUnit para verificar la lógica del modelo.
+
 ## 📖 Documentación
 Este proyecto incluye:
 
